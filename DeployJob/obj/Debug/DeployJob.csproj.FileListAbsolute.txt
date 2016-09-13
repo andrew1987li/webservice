@@ -1,0 +1,5 @@
+C:\Projects\VS2012\ASP.Net\DeployJob\DeployJob\bin\DeployJob.dll
+C:\Projects\VS2012\ASP.Net\DeployJob\DeployJob\bin\DeployJob.pdb
+C:\Projects\VS2012\ASP.Net\DeployJob\DeployJob\obj\Debug\DeployJob.csprojResolveAssemblyReference.cache
+C:\Projects\VS2012\ASP.Net\DeployJob\DeployJob\obj\Debug\DeployJob.dll
+C:\Projects\VS2012\ASP.Net\DeployJob\DeployJob\obj\Debug\DeployJob.pdb
